@@ -23,5 +23,8 @@
   "homepage": "https://github.com/sergeysinoptik/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
   }
 }
